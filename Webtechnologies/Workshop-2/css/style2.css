@@ -9,6 +9,24 @@ body{
     margin: 80;
 }
 .box-1{
-    background-color: black;
+    background-color: grey;
     margin: 80;
+}
+.box-2{
+    background-color: aquamarine;
+    color: black;
+    margin: 80;
+}
+.box-3{
+    background-color: cornsilk;
+    color: darkred;
+    margin: 80;
+}
+.box-4{
+    background-color: khaki;
+    color: chocolate;
+}
+.box-5{
+    background-color:coral;
+    color: black;
 }
