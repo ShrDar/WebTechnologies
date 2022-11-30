@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size:15px;
+    font-weight: 800;
+    /*same as above font: black 16px cursive*/
+    line-height: 1.6em;
+    margin: 80;
+}
+.box-1{
+    background-color: black;
+    margin: 80;
+}
