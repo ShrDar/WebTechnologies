@@ -2,7 +2,7 @@ body{
     background-color: black;
     color: white;
     font-family: cursive;
-    font-size:15px;
+    font-size:16px;
     font-weight: 800;
     /*same as above font: black 16px cursive*/
     line-height: 1.6em;
@@ -29,4 +29,17 @@ body{
 .box-5{
     background-color:coral;
     color: black;
+}
+ul{
+    background-color: beige;
+}
+ul * {
+display: inline;
+}
+ul li{
+    margin: 120px;
+}
+ul li a{
+color: black;
+text-decoration: none;
 }
