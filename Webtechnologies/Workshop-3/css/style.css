@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:#fff;
+    font-family: cursive;
+    font-size:12px;
+    font-weight: 800;
+    /*same as above font: black 16px cursive*/
+    line-height: 1.6em;
+}
+header{
+    background-color: black;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: #fff;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 20px;  
+}  
+header li a {  
+color: white;  
+text-decoration: none; 
+}  

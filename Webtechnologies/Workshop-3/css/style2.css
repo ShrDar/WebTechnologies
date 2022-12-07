@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size:16px;
+    font-weight: 800;
+    /*same as above font: black 16px cursive*/
+    line-height: 1.6em;
+    margin: 80;
+}
+.box-1{
+    background-color: grey;
+    margin: 80;
+}
+.box-2{
+    background-color: aquamarine;
+    color: black;
+    margin: 80;
+}
+.box-3{
+    background-color: cornsilk;
+    color: darkred;
+    margin: 80;
+}
+.box-4{
+    background-color: khaki;
+    color: chocolate;
+}
+.box-5{
+    background-color:coral;
+    color: black;
+}
+ul{
+    background-color: beige;
+}
+ul * {
+display: inline;
+}
+ul li{
+    margin: 120px;
+}
+ul li a{
+color: #000;
+text-decoration: none;
+}
