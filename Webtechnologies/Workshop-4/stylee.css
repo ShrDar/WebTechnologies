@@ -1,0 +1,29 @@
+h1{
+    background-color: rgb(226, 102, 102);
+    font-size: 40px;
+    width: 240px;
+}
+.h2{
+    background-color: aqua;
+    font-size: 40px;
+    width: 240px;
+}
+.p1{
+    background-color: rgb(13, 148, 103);
+    font-size: 20px;
+    color: bisque;
+}
+.p2{
+    background-color: rgb(249, 186, 61);
+    font-size: 20px;
+}
+.p3{
+    background-color: black;
+    color: #fff;
+    font-size:20px;
+}
+.p4{
+    background-color: blueviolet;
+    font-size: 20px;
+    color:#fff
+}
