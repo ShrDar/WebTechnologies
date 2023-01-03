@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: black;
+}
+.main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #FFBA00;
+    margin-left: 100px;
+    margin-right: 100px;
+    height:100vh;
+}
+.flex-item img{
+    width:300px;
+    height:400px;
+    padding-bottom: 15px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.flex-item{
+    margin-right: 0px;
+}
+.main h1{
+    font-size: 40px;
+    text-align: center;
+    padding:30px;
+    text-transform: capitalize;
+}
+.flex-item .text{
+    text-align: center;
+}
+.flex-item h6{
+    font-size:20px;
+    margin-top:10px;
+}
+.flex-item h2{
+    font-size:30px;
+}
+.flex-item h5{
+    font-size:20px;
+    font-weight:normal;
+}
+@media(max-width:600px){
+.main{
+    height: auto;
+    width: auto;
+}
+}
+@media(max-height:600px){
+    .main{
+        height: auto;
+        width: auto;
+    }
+    }
